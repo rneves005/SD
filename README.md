@@ -45,7 +45,7 @@ This project was developed by the following students:
 
 | Full Name                        | Student ID       |
 |----------------------------------|------------------|
-| Francisco José Fidalgo Lage      |      A101813     |
+| Francisco José Fidalgo Lage      |      A106813     |
 | Ricardo Miguel Correia das Neves |      A106850     |
 | Jorge Gabriel Sá Barbosa         |      A106799     |
 
